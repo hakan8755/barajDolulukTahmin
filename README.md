@@ -67,7 +67,7 @@ Projeyi çalıştırmak için aşağıdaki adımları izleyin:
 ## Kullanım
 Proje, baraj doluluk oranlarını tahmin etmek için aşağıdaki adımları izler:
 1. Verilerin ön işlenmesi.
-2. ETSFormer algoritması ile model eğitimi.
+2. Transformer algoritmalarıyla ile model eğitimi.
 3. Tahmin sonuçlarının görselleştirilmesi.
 
 Sonuçlar `results/` dizininde saklanacaktır.
@@ -80,8 +80,7 @@ Katkıda bulunmak için şu adımları takip edebilirsiniz:
 4. Dalınızı ana depoya push edin (`git push origin yeni-ozellik`).
 5. Bir **Pull Request** oluşturun.
 
-## Lisans
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına göz atabilirsiniz.
+
 
 ---
 
